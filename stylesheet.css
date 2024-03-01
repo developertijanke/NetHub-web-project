@@ -1,0 +1,36 @@
+.navbar {
+    background-color: #D962DF;
+}
+.navbar-brand {
+    color: white;
+} 
+
+.navbar-toggler {
+    background-color: white ;
+}
+
+.offcanvas-header {
+    background-color: #D962DF;
+    color: white;
+}
+
+.offcanvas-body {
+    background-color: #9423b331;
+}
+
+.nav-link {
+    color: #D962DF;
+}
+.dropdown-menu {
+    background-color: #D962DF;
+}
+
+.btn{
+    background-color: #D962DF;
+    color: white;
+}
+/* End of Color section*/
+
+.carousel-indicator{
+    height: 3px;
+}
