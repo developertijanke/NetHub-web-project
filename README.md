@@ -10,7 +10,6 @@
 ## Project Developers (NetHub Members):
 * ```Developer Tijan```
 * `Developer Alex`
-* `Developer Alex`
 * `Developer Javan`
   <p> At NetHub, we make 'IT' Happen.......</p>
 
