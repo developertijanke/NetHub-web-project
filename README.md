@@ -1,4 +1,4 @@
-## NetHub web Project 2024 FEB (updated)
+## NetHub web Project 2024 June (updated)
 <p align="center">
 <a href="https://nethub-rouge.vercel.app/ "><img title="NetHub" src="https://raw.githubusercontent.com/developertijanke/NetHub-web-project/main/assets/img/logo.png" height="200px"></a>
 <p align="center">Click the NetHub log to visite the website.</p>
